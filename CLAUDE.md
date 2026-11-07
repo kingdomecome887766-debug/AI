@@ -3,6 +3,9 @@
 Every agent in this office reads this file first. It is the shared context:
 who we are, what we are building, and the standards every piece of work must meet.
 
+**New session?** Read `office/status.md` first: it holds the latest decisions,
+open next steps and how to work with the owner.
+
 ## Who we serve
 
 - **Owner:** the founder of the Kingdom Office. Visionary, runs several businesses
