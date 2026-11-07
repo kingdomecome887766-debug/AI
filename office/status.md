@@ -33,6 +33,13 @@ _Last updated: 2026-11-07_
 - `CLAUDE.md`, `office/brand.md`, 4 agents in `.claude/agents/`, the
   `/episode` command and the `outputs/` trays. See `README.md`.
 
+## Session log
+
+- **2026-11-07:** Planned the office, studied the 4-agent model (Edwina, "Voice
+  of AI"), inventoried hardware, made channel decisions, built the YouTube team
+  and these handoff notes. Ended the session to continue in a fresh chat.
+  Habit set: end every session with "update the status file and push."
+
 ## Open next steps
 
 1. **Pick the channel name** from the 14 candidates in `office/brand.md`, then
